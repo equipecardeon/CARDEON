@@ -64,6 +64,12 @@ potencialmente perigosos, fornecendo respostas sonoras acessíveis ao usuário.
 - TensorFlow Lite Converter: Responsável pela conversão do modelo YOLOv8 para TensorFlow Lite (TFLite), permitindo execução em dispositivos Android sem dependência da biblioteca Ultralytics. ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 - Threading (multithreading):Biblioteca em Python responsavel por executar tarefas paralelas evitando o travamento do loop. ![Threading](https://img.shields.io/badge/Threading-Multithreading-blue.svg)
 
+**PRÉ-REQUISITOS PARA RODAR NO MOBILE:**
+- 📝Android 8 ou superior✅
+- 📝Pelo menos: 2 GB livres✅
+- 📝O usuário vai precisar permitir: câmera 📷 e microfone 🎤 (se usar voz)✅
+- 📝Câmera funcionando porque o app vai usar: preview da câmera e detecção em tempo real✅
+
 **ATUALIZAÇÕES FUTURAS:**
 - ⏱️Recursos premium de personalização da experiência sonora.
 - ⏱️Interface tátil-sonora.
