@@ -7,8 +7,8 @@
 
 ## 📌 Sobre 🧭
 
-Cardeon é um aplicativo móvel com visão computancional capaz de realizar detecção de classes(objetos,pessoas,animais,automoveis entre outros).
-Permitindo maior autonomia e inclusão para pessoas com perca de visão parcial ou total.
+>Cardeon é um aplicativo móvel com visão computancional capaz de realizar detecção de classes(objetos,pessoas,animais,automoveis entre outros).
+>Permitindo maior autonomia e inclusão para pessoas com perca de visão parcial ou total.
 
 </div>
 
@@ -41,7 +41,14 @@ potencialmente perigosos, fornecendo respostas sonoras acessíveis ao usuário.
 ## 📸 Screenshots
 <img width="1774" height="754" alt="Image" src="https://github.com/user-attachments/assets/9adfaf44-1460-4306-a173-06edb98ed259" />
 
-**TECNOLOGIA UTILIZADA:**
+**📱🧠 PRINCIPAIS RECURSOS DO  APP:**
+- ✔Visão computacional (YOLO) ✔ Detecta objetos em tempo real ✔ Usa modelo yolov8n.pt (leve) ✔ Identifica classes como: pessoa, carro, gato, cachorro, celular e bicicleta 📷
+- ✔Sistema de detecção com caixas ✔ Desenha bounding boxes verdes ✔ Mostra nome do objeto na tela ✔.
+- ✔ Fala automaticamente os objetos detectados Exemplo: "pessoa, carro, cachorro".
+- ✔ Não necessita de aparelhos extremamentes potentes e tecnologicos.
+- ✔ Experiencia fluida e rapida, evitando falhas e lags(atraso entre ação e a sua resposta para o usuário).
+
+**TECNOLOGIA UTILIZADA🌐:**
 
 - Visual Studio Code (VS Code): Editor de código-fonte platarforma resnposavél pela programação. ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 - Linguagem de programação: Python. ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
