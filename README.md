@@ -34,3 +34,6 @@ proposta de tecnologia assistiva baseada em inteligência artificial e visão co
 solução foi desenvolvida com o objetivo de auxiliar pessoas com deficiência visual por meio
 da identificação, em tempo real, de pessoas, animais, objetos comuns e objetos
 potencialmente perigosos, fornecendo respostas sonoras acessíveis ao usuário.
+
+## 📸 Screenshots
+<img width="1774" height="754" alt="Image" src="https://github.com/user-attachments/assets/9adfaf44-1460-4306-a173-06edb98ed259" />
