@@ -1,3 +1,6 @@
+![Cardeon](https://img.shields.io/badge/Projeto-Cardeon-yellow?style=for-the-badge&logo=github&logoColor=black)
+![Inclusão & Solidariedade](https://img.shields.io/badge/INCLUSÃO_%26_SOLIDARIEDADE-criando%20um%20mundo%20de%20novas%20possibilidades-001A33?style=for-the-badge&labelColor=6E6E6E&color=001A33&logoColor=white)
+
 # 📱👀👁️‍🗨️ CARDEON-APLICATIVO MOBILE PARA AUXILIO PARA DECIENTES VISUAIS.
 
 ---
@@ -40,9 +43,9 @@ potencialmente perigosos, fornecendo respostas sonoras acessíveis ao usuário.
 
 **TECNOLOGIA UTILIZADA:**
 
-- Visual Studio Code (VS Code): Editor de código-fonte platarforma resnposavél pela programação. 
-- Linguagem de programação: Python.
-- KIVY (Interface gráfica mobile): Framework Python para criar interfaces multiplataforma (Android, iOS, desktop). 
-- YOLOv8 + Ultralytics:Modelo de detecção de objetos em tempo real, tecnicamente é uma CNN (Rede Neural Convolucional).
-- TensorFlow Lite Converter: Responsável pela conversão do modelo YOLOv8 para TensorFlow Lite (TFLite), permitindo execução em dispositivos Android sem dependência da biblioteca Ultralytics. 
-- Threading (multithreading):Biblioteca em Python responsavel por executar tarefas paralelas evitando o travamento do loop.
+- Visual Studio Code (VS Code): Editor de código-fonte platarforma resnposavél pela programação. ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+- Linguagem de programação: Python. ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+- KIVY (Interface gráfica mobile): Framework Python para criar interfaces multiplataforma (Android, iOS, desktop). ![KIVY](https://img.shields.io/badge/Kivy-3DDC84?style=for-the-badge&logo=kivy&logoColor=white)
+- YOLOv8 + Ultralytics:Modelo de detecção de objetos em tempo real, tecnicamente é uma CNN (Rede Neural Convolucional). ![Ultralytics](https://img.shields.io/badge/Ultralytics-YOLOv8-5A00FF?logo=ultralytics&logoColor=white)
+- TensorFlow Lite Converter: Responsável pela conversão do modelo YOLOv8 para TensorFlow Lite (TFLite), permitindo execução em dispositivos Android sem dependência da biblioteca Ultralytics. ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+- Threading (multithreading):Biblioteca em Python responsavel por executar tarefas paralelas evitando o travamento do loop. ![Threading](https://img.shields.io/badge/Threading-Multithreading-blue.svg)
