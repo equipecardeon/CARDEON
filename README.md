@@ -82,4 +82,7 @@ potencialmente perigosos, fornecendo respostas sonoras acessíveis ao usuário.
 - **docs:** Documentação  
 - **perf:** Otimizações de performance  
 - **test:** Testes  
-- **chore:** Configurações e dependências  
+- **chore:** Configurações e dependências
+
+**EQUIPE CARDEON⭐🫂:**
+> A inclusão começa nas novas possibilidades de enxegar o mundo.
