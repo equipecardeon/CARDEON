@@ -92,3 +92,4 @@ potencialmente perigosos, fornecendo respostas sonoras acessíveis ao usuário.
 
 **EQUIPE CARDEON⭐🫂:**
 > A inclusão começa nas novas possibilidades de enxegar o mundo.
+<img width="1280" height="960" alt="Image" src="https://github.com/user-attachments/assets/06e7e6b1-99ea-459f-b728-497540e0eda1" />
