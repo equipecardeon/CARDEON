@@ -37,3 +37,12 @@ potencialmente perigosos, fornecendo respostas sonoras acessíveis ao usuário.
 
 ## 📸 Screenshots
 <img width="1774" height="754" alt="Image" src="https://github.com/user-attachments/assets/9adfaf44-1460-4306-a173-06edb98ed259" />
+
+**TECNOLOGIA UTILIZADA:**
+
+- Visual Studio Code (VS Code): Editor de código-fonte platarforma resnposavél pela programação. 
+- Linguagem de programação: Python.
+- KIVY (Interface gráfica mobile): Framework Python para criar interfaces multiplataforma (Android, iOS, desktop). 
+- YOLOv8 + Ultralytics:Modelo de detecção de objetos em tempo real, tecnicamente é uma CNN (Rede Neural Convolucional).
+- TensorFlow Lite Converter: Responsável pela conversão do modelo YOLOv8 para TensorFlow Lite (TFLite), permitindo execução em dispositivos Android sem dependência da biblioteca Ultralytics. 
+- Threading (multithreading):Biblioteca em Python responsavel por executar tarefas paralelas evitando o travamento do loop.
