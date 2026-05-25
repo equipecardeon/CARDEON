@@ -71,4 +71,15 @@ potencialmente perigosos, fornecendo respostas sonoras acessíveis ao usuário.
 - ⏱️Ampliação dos recursos de acessibilidade.
 - ⏱️Adição de novas classes.
 
+## 🧩 Guidelines
 
+### 📌 Commits Pattern
+
+- **feat:** Nova funcionalidade  
+- **fix:** Correção de bugs  
+- **style:** Alterações de estilo/formatação  
+- **refactor:** Melhorias de código sem mudança funcional  
+- **docs:** Documentação  
+- **perf:** Otimizações de performance  
+- **test:** Testes  
+- **chore:** Configurações e dependências  
