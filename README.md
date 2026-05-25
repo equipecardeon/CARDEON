@@ -41,12 +41,19 @@ potencialmente perigosos, fornecendo respostas sonoras acessíveis ao usuário.
 ## 📸 Screenshots
 <img width="1774" height="754" alt="Image" src="https://github.com/user-attachments/assets/9adfaf44-1460-4306-a173-06edb98ed259" />
 
-**📱🧠 PRINCIPAIS RECURSOS DO  APP:**
+**PRINCIPAIS RECURSOS DO APP 📱🧠:**
 - ✔Visão computacional (YOLO) ✔ Detecta objetos em tempo real ✔ Usa modelo yolov8n.pt (leve) ✔ Identifica classes como: pessoa, carro, gato, cachorro, celular e bicicleta 📷
 - ✔Sistema de detecção com caixas ✔ Desenha bounding boxes verdes ✔ Mostra nome do objeto na tela ✔.
 - ✔ Fala automaticamente os objetos detectados Exemplo: "pessoa, carro, cachorro".
 - ✔ Não necessita de aparelhos extremamentes potentes e tecnologicos.
 - ✔ Experiencia fluida e rapida, evitando falhas e lags(atraso entre ação e a sua resposta para o usuário).
+
+ **CASOS DE USO PRINCIPAIS💡:**
+ - ✔Detecção de objetos.
+ - ✔Reconhecimento no ambiente do cotidiano.
+ - ✔Melhor adaptação em espaço educional.
+ - ✔Ampliação da autonomia na sociedade.
+ - ✔Suprir necessidades em relação a poucos recursos assitivos nas cidades.`
 
 **TECNOLOGIA UTILIZADA🌐:**
 
