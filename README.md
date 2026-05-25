@@ -63,3 +63,12 @@ potencialmente perigosos, fornecendo respostas sonoras acessíveis ao usuário.
 - YOLOv8 + Ultralytics:Modelo de detecção de objetos em tempo real, tecnicamente é uma CNN (Rede Neural Convolucional). ![Ultralytics](https://img.shields.io/badge/Ultralytics-YOLOv8-5A00FF?logo=ultralytics&logoColor=white)
 - TensorFlow Lite Converter: Responsável pela conversão do modelo YOLOv8 para TensorFlow Lite (TFLite), permitindo execução em dispositivos Android sem dependência da biblioteca Ultralytics. ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 - Threading (multithreading):Biblioteca em Python responsavel por executar tarefas paralelas evitando o travamento do loop. ![Threading](https://img.shields.io/badge/Threading-Multithreading-blue.svg)
+
+**ATUALIZAÇÕES FUTURAS:**
+- ⏱️Recursos premium de personalização da experiência sonora.
+- ⏱️Interface tátil-sonora.
+- ⏱️Aprimoramento da precisão do reconhecimento de classes.
+- ⏱️Ampliação dos recursos de acessibilidade.
+- ⏱️Adição de novas classes.
+
+
