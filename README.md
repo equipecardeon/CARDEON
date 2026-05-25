@@ -20,6 +20,13 @@ maior independência e inclusão digital. Além de evidenciar barreiras de
 acesso a recursos digitais que restringem significativamente a participação social, educacional e
 profissional de pessoas com deficiência visual.
 
+<p align="center">
+  <img 
+       src="https://github.com/user-attachments/assets/3704657f-0f32-4404-8bd0-897a277a926e"
+       width="700"
+  />
+</p>
+
  **SOLUÇÃO PROPOSTA💡:**
 O projeto Cardeon, inspirado no
 conceito de pontos cardeais como símbolo de orientação e direcionamento, surge como uma
