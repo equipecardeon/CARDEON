@@ -64,6 +64,17 @@ potencialmente perigosos, fornecendo respostas sonoras acessíveis ao usuário.
 - TensorFlow Lite Converter: Responsável pela conversão do modelo YOLOv8 para TensorFlow Lite (TFLite), permitindo execução em dispositivos Android sem dependência da biblioteca Ultralytics. ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 - Threading (multithreading):Biblioteca em Python responsavel por executar tarefas paralelas evitando o travamento do loop. ![Threading](https://img.shields.io/badge/Threading-Multithreading-blue.svg)
 
+**Manual de execução do MVP:**
+  1. Instale o Android Studio Code e o Java JDK 17.
+  2. Abra o Android Studio Code.
+  3. Vá em File depois em Open.
+  4. Navegue até a pasta do projeto e a escolha.
+  5. Depois de apertar em ok, voçê precisará sincronizar a gradles, clique no simbolo do elephante para sincroniza-las.
+  6. Logo após clique na opção run para executar todos os arquivos do projeto.
+  7. No terminal, veja se sai algum erro de execução.
+  8. Caso não ocorra erro, o código será conectado no celular, via pareamento com QR Code.
+  9. Após todos esses passos o programa funcionará corretamente.
+ 
 **PRÉ-REQUISITOS PARA RODAR NO MOBILE:**
 - 📝Android 8 ou superior✅
 - 📝Pelo menos: 2 GB livres✅
