@@ -57,9 +57,9 @@ potencialmente perigosos, fornecendo respostas sonoras acessíveis ao usuário.
 
 **TECNOLOGIA UTILIZADA🌐:**
 
-- Visual Studio Code (VS Code): Editor de código-fonte platarforma resnposavél pela programação. ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
-- Linguagem de programação: Python. ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-- KIVY (Interface gráfica mobile): Framework Python para criar interfaces multiplataforma (Android, iOS, desktop). ![KIVY](https://img.shields.io/badge/Kivy-3DDC84?style=for-the-badge&logo=kivy&logoColor=white)
+- Visual Studio Code (VS Code): Editor de código-fonte platarforma resnposavél pela programação inicial. ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+- Linguagem de programação: Java. ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- Android Studio Code: É a IDE oficial do Google para desenvolver aplicativos Android. ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 - YOLOv8 + Ultralytics:Modelo de detecção de objetos em tempo real, tecnicamente é uma CNN (Rede Neural Convolucional). ![Ultralytics](https://img.shields.io/badge/Ultralytics-YOLOv8-5A00FF?logo=ultralytics&logoColor=white)
 - TensorFlow Lite Converter: Responsável pela conversão do modelo YOLOv8 para TensorFlow Lite (TFLite), permitindo execução em dispositivos Android sem dependência da biblioteca Ultralytics. ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 - Threading (multithreading):Biblioteca em Python responsavel por executar tarefas paralelas evitando o travamento do loop. ![Threading](https://img.shields.io/badge/Threading-Multithreading-blue.svg)
@@ -76,6 +76,16 @@ potencialmente perigosos, fornecendo respostas sonoras acessíveis ao usuário.
 - ⏱️Aprimoramento da precisão do reconhecimento de classes.
 - ⏱️Ampliação dos recursos de acessibilidade.
 - ⏱️Adição de novas classes.
+- ⏱️Tradução das classes para português.
+
+**Respósaveis pela transformação do codigo fonte em mobile:👤**
+
+- Isac Leal
+- Victor Eduardo
+
+**Colaborador:**
+- Utilização da tecnologia de IA GEMINI para os estudos de transformação do aplicativo anteriomente desktop para mobile.
+
 
 ## 🧩 Guidelines
 
