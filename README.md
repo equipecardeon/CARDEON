@@ -85,6 +85,17 @@ potencialmente perigosos, fornecendo respostas sonoras acessíveis ao usuário.
 - 📝O usuário precisa permitir: câmera 📷 e microfone 🎤 (se usar voz)✅
 - 📝Câmera funcionando porque o app vai usar: preview da câmera e detecção em tempo real✅
 
+**Manual do usuário:**
+O aplicativo consiste na acessibilidade assistiva do público-alvo, visando facilidade ao entrar no app.
+- 1° O usuário irá procurar o aplicativo no seu celular utilizando os recursos de acessibilidade para pessoas com deficiência visual.
+- 2° O aplicativo abrirá instantaneamente.
+- 3° O software começará a analisar o ambiente em sua volta.
+- 4° Retornará uma resposta sonora quando identificar algum objeto, ou seja, o aplicativo irá comunicar qual objeto detectou.
+- 5° O usuário conseguirá saber qual objeto foi detectado.
+
+Observação: O aplicativo ainda está em desenvolvimento, entretanto, seu recurso principal de detecção de objetos e fala já está incluso.
+
+
 **ATUALIZAÇÕES FUTURAS:**
 - ⏱️Recursos premium de personalização da experiência sonora.
 - ⏱️Interface tátil-sonora.
