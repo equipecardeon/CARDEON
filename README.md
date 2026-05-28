@@ -1,13 +1,13 @@
 ![Cardeon](https://img.shields.io/badge/Projeto-Cardeon-yellow?style=for-the-badge&logo=github&logoColor=black)
 ![Inclusão & Solidariedade](https://img.shields.io/badge/INCLUSÃO_%26_SOLIDARIEDADE-criando%20um%20mundo%20de%20novas%20possibilidades-001A33?style=for-the-badge&labelColor=6E6E6E&color=001A33&logoColor=white)
 
-# 📱👀👁️‍🗨️ CARDEON-APLICATIVO MOBILE PARA AUXILIO PARA DECIENTES VISUAIS.
+# 📱👀👁️‍🗨️ CARDEON - APLICATIVO MOBILE PARA AUXÍLIO DE DEFICIENTES VISUAIS
 
 ---
 
 ## 📌 Sobre 🧭
 
->Cardeon é um aplicativo móvel com visão computancional capaz de realizar detecção de classes(objetos,pessoas,animais,automoveis entre outros).
+>Cardeon é um aplicativo móvel com visão computacional capaz de realizar detecção de classes (objetos, pessoas, animais, automóveis entre outros).
 >Permitindo maior autonomia e inclusão para pessoas com perca de visão parcial ou total.
 
 </div>
@@ -44,41 +44,45 @@ potencialmente perigosos, fornecendo respostas sonoras acessíveis ao usuário.
 **PRINCIPAIS RECURSOS DO APP 📱🧠:**
 - ✔Visão computacional (YOLO) ✔ Detecta objetos em tempo real ✔ Usa modelo yolov8n.pt (leve) ✔ Identifica classes como: pessoa, carro, gato, cachorro, celular e bicicleta 📷
 - ✔Sistema de detecção com caixas ✔ Desenha bounding boxes verdes ✔ Mostra nome do objeto na tela ✔.
-- ✔ Fala automaticamente os objetos detectados Exemplo: "pessoa, carro, cachorro".
-- ✔ Não necessita de aparelhos extremamentes potentes e tecnologicos.
-- ✔ Experiencia fluida e rapida, evitando falhas e lags(atraso entre ação e a sua resposta para o usuário).
+- ✔Fala automaticamente os objetos detectados. Exemplo: "pessoa, carro, cachorro".
+- ✔Não necessita de aparelhos robustos e tecnológicos.
+- ✔Experiência fluida e rápida, evitando falhas e lags (atraso entre ação e a sua resposta para o usuário).
+
+
+⚠️**O MVP atualmente faz a detecção com classes em inglês.**
+
 
  **CASOS DE USO PRINCIPAIS💡:**
- - ✔Detecção de objetos.
- - ✔Reconhecimento no ambiente do cotidiano.
- - ✔Melhor adaptação em espaço educional.
- - ✔Ampliação da autonomia na sociedade.
+ - ✔Detecção de objetos;
+ - ✔Reconhecimento no ambiente do cotidiano;
+ - ✔Melhor adaptação em espaço educional;
+ - ✔Ampliação da autonomia na sociedade;
  - ✔Suprir necessidades em relação a poucos recursos assitivos nas cidades.`
 
 **TECNOLOGIA UTILIZADA🌐:**
 
-- Visual Studio Code (VS Code): Editor de código-fonte platarforma resnposavél pela programação inicial. ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
+- Visual Studio Code (VS Code): Editor de código-fonte plataforma resnposável pela programação inicial. ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 - Linguagem de programação: Java. ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 - Android Studio Code: É a IDE oficial do Google para desenvolver aplicativos Android. ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-- YOLOv8 + Ultralytics:Modelo de detecção de objetos em tempo real, tecnicamente é uma CNN (Rede Neural Convolucional). ![Ultralytics](https://img.shields.io/badge/Ultralytics-YOLOv8-5A00FF?logo=ultralytics&logoColor=white)
+- YOLOv8 + Ultralytics: Modelo de detecção de objetos em tempo real, tecnicamente é uma CNN (Rede Neural Convolucional). ![Ultralytics](https://img.shields.io/badge/Ultralytics-YOLOv8-5A00FF?logo=ultralytics&logoColor=white)
 - TensorFlow Lite Converter: Responsável pela conversão do modelo YOLOv8 para TensorFlow Lite (TFLite), permitindo execução em dispositivos Android sem dependência da biblioteca Ultralytics. ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-- Threading (multithreading):Biblioteca em Python responsavel por executar tarefas paralelas evitando o travamento do loop. ![Threading](https://img.shields.io/badge/Threading-Multithreading-blue.svg)
+- Threading (multithreading):Biblioteca em Python responsável por executar tarefas paralelas evitando o travamento do loop. ![Threading](https://img.shields.io/badge/Threading-Multithreading-blue.svg)
 
 **Manual de execução do MVP:**
   1. Instale o Android Studio Code e o Java JDK 17.
   2. Abra o Android Studio Code.
-  3. Vá em File depois em Open.
+  3. Vá em 'File', depois em 'Open'.
   4. Navegue até a pasta do projeto e a escolha.
-  5. Depois de apertar em ok, voçê precisará sincronizar a gradles, clique no simbolo do elephante para sincroniza-las.
-  6. Logo após clique na opção run para executar todos os arquivos do projeto.
-  7. No terminal, veja se sai algum erro de execução.
-  8. Caso não ocorra erro, o código será conectado no celular, via pareamento com QR Code.
-  9. Após todos esses passos o programa funcionará corretamente.
+  5. Depois de clicar em 'ok', sincronizar a gradles; Clique no símbolo do "elefante" para sincronizá-las.
+  6. Logo após, clique na opção 'run' para executar todos os arquivos do projeto.
+  7. No terminal, verificar algum erro de execução.
+  8. Caso não ocorra erro, o código será conectado no celular, via escaneamento com QR Code.
+  9. Após todos esses passos, o programa funcionará corretamente.
  
 **PRÉ-REQUISITOS PARA RODAR NO MOBILE:**
 - 📝Android 8 ou superior✅
 - 📝Pelo menos: 2 GB livres✅
-- 📝O usuário vai precisar permitir: câmera 📷 e microfone 🎤 (se usar voz)✅
+- 📝O usuário precisa permitir: câmera 📷 e microfone 🎤 (se usar voz)✅
 - 📝Câmera funcionando porque o app vai usar: preview da câmera e detecção em tempo real✅
 
 **ATUALIZAÇÕES FUTURAS:**
@@ -89,7 +93,7 @@ potencialmente perigosos, fornecendo respostas sonoras acessíveis ao usuário.
 - ⏱️Adição de novas classes.
 - ⏱️Tradução das classes para português.
 
-**Respósaveis pela transformação do codigo fonte em mobile:👤**
+**Responsáveis pela transformação do código fonte em mobile:👤**
 
 - Isac Leal
 - Victor Eduardo
@@ -112,5 +116,5 @@ potencialmente perigosos, fornecendo respostas sonoras acessíveis ao usuário.
 - **chore:** Configurações e dependências
 
 **EQUIPE CARDEON⭐🫂:**
-> A inclusão começa nas novas possibilidades de enxegar o mundo.
+> A inclusão começa em novas possibilidades de enxegar o mundo.
 <img width="1280" height="960" alt="Image" src="https://github.com/user-attachments/assets/06e7e6b1-99ea-459f-b728-497540e0eda1" />
